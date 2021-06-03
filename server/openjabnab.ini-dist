@@ -16,9 +16,9 @@ MaxNumberOfBunnies=64
 MaxBurstNumberOfBunnies=72
 
 [OpenJabNabServers]
-PingServer=my.domain.com
-BroadServer=my.domain.com
-XmppServer=my.domain.com
+PingServer=ojn.jsl-systems.com
+BroadServer=ojn.jsl-systems.com
+XmppServer=ojn.jsl-systems.com
 ListeningHttpPort=8080
 ListeningXmppPort=5222
 
